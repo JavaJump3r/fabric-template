@@ -31,5 +31,12 @@
     "fabric-api": "*",
     "minecraft": "~1.19.3",
     "java": ">=17"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.discord": "https://discord.gg/44sD49Aan3"
+      }
+    }
   }
 }
