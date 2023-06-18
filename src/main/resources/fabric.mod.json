@@ -9,8 +9,8 @@
     "JavaJumper"
   ],
   "contact": {
-    "homepage": "https://javajump3r.github.io/",
-    "sources": "https://github.com/JavaJump3r/"
+    "homepage": "https://JumperOnJava.github.io/",
+    "sources": "https://github.com/JumperOnJava/"
   },
 
   "license": "GPL v3",
@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "client": [
-      "io.github.javajump3r.mod.ModInit"
+      "io.github.JumperOnJava.mod.ModInit"
     ]
   },
   "mixins": [
@@ -29,7 +29,7 @@
   "depends": {
     "fabricloader": ">=0.14.14",
     "fabric-api": "*",
-    "minecraft": "~1.19.3",
+    "minecraft": "1.20.1",
     "java": ">=17"
   },
   "custom": {
